@@ -1,0 +1,6 @@
+{
+  "name": "AI Debt Relief & Financial Recovery Platform",
+  "description": "An AI-powered platform to help users analyze debts, create repayment plans (Snowball/Avalanche), log transactions, and receive personalized financial coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
